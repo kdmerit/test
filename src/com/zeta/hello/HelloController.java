@@ -7,6 +7,7 @@ public class HelloController {
 		System.out.println("Go Away");
 		System.out.println("222222");
 		System.out.println("1111112222");
+		System.out.println("1¹ø");
 		
 	}
 }
