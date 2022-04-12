@@ -8,6 +8,7 @@ public class HelloController {
 		System.out.println("Hello 4 new Branch");
 		System.out.println("test111222");
 		System.out.println("branch user1_a »ý¼º");
+		System.out.println("user1 gogo");
 		
 		
 	}
