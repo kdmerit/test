@@ -6,5 +6,6 @@ public class HiController {
 		System.out.println("Hi 2");
 		System.out.println("Hi 3 test2");
 		System.out.println("Hi test2 111");
+		System.out.println("Hi test2 222");
 	}
 }
