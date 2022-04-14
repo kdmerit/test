@@ -2,6 +2,6 @@ package com.zeta.hi;
 
 public class HiController {
 	public static void main(String[] args){
-		System.out.println("»ç¿ëÀÚ222");
+		System.out.println("ì‚¬ìš©ì 222");
 	}
 }
